@@ -1,0 +1,18 @@
+# Ignore everything by default
+*
+
+# Track config files
+!.gitignore
+!agents/
+!agents/**
+!commands/
+!commands/**
+!hooks/
+!hooks/**
+!skills/
+!skills/**
+!templates/
+!templates/**
+!constitution.md
+!statusline.sh
+!settings.json
